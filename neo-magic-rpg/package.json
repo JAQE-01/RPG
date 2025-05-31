@@ -1,0 +1,31 @@
+{
+  "name": "neo-magic-rpg",
+  "version": "1.0.0",
+  "description": "A narrative RPG game set in a neo-magic world with automatic story generation and complex battle mechanics.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "RPG",
+    "game",
+    "narrative",
+    "fantasy",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0",
+    "webpack-dev-server": "^3.0.0"
+  },
+  "devDependencies": {
+    "babel-loader": "^8.0.0",
+    "babel-core": "^7.0.0",
+    "babel-preset-env": "^1.0.0",
+    "css-loader": "^5.0.0",
+    "style-loader": "^2.0.0"
+  }
+}

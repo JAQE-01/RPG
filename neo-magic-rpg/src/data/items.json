@@ -1,0 +1,75 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Iron Sword",
+      "type": "weapon",
+      "damage": 10,
+      "description": "A sturdy sword made of iron, perfect for beginners."
+    },
+    {
+      "id": 2,
+      "name": "Steel Shield",
+      "type": "armor",
+      "defense": 15,
+      "description": "A reliable shield that offers great protection."
+    },
+    {
+      "id": 3,
+      "name": "Healing Potion",
+      "type": "consumable",
+      "healing": 20,
+      "description": "A potion that restores health when consumed."
+    },
+    {
+      "id": 4,
+      "name": "Fire Staff",
+      "type": "weapon",
+      "damage": 15,
+      "magical": true,
+      "description": "A staff imbued with the power of fire, capable of casting spells."
+    },
+    {
+      "id": 5,
+      "name": "Mystic Robe",
+      "type": "armor",
+      "defense": 10,
+      "magical": true,
+      "description": "A robe that enhances magical abilities and provides light protection."
+    },
+    {
+      "id": 6,
+      "name": "Elven Bow",
+      "type": "weapon",
+      "damage": 12,
+      "description": "A finely crafted bow favored by the elves, known for its accuracy."
+    },
+    {
+      "id": 7,
+      "name": "Mana Elixir",
+      "type": "consumable",
+      "manaRestore": 30,
+      "description": "An elixir that restores mana, allowing for more spellcasting."
+    },
+    {
+      "id": 8,
+      "name": "Dragon Scale Armor",
+      "type": "armor",
+      "defense": 25,
+      "description": "Armor made from the scales of a dragon, offering unmatched protection."
+    },
+    {
+      "id": 9,
+      "name": "Thunderbolt Amulet",
+      "type": "artifact",
+      "description": "An amulet that grants the wearer the ability to summon lightning."
+    },
+    {
+      "id": 10,
+      "name": "Potion of Strength",
+      "type": "consumable",
+      "strengthBoost": 5,
+      "description": "A potion that temporarily increases the drinker's strength."
+    }
+  ]
+}

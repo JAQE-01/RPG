@@ -1,0 +1,97 @@
+{
+  "characters": [
+    {
+      "name": "Elysia",
+      "race": "Elf",
+      "class": "Mage",
+      "attributes": {
+        "strength": 5,
+        "agility": 8,
+        "intelligence": 10,
+        "charisma": 7
+      },
+      "abilities": [
+        {
+          "name": "Fireball",
+          "damage": 15,
+          "manaCost": 5
+        },
+        {
+          "name": "Healing Light",
+          "heal": 10,
+          "manaCost": 3
+        }
+      ]
+    },
+    {
+      "name": "Thorin",
+      "race": "Dwarf",
+      "class": "Warrior",
+      "attributes": {
+        "strength": 10,
+        "agility": 6,
+        "intelligence": 4,
+        "charisma": 5
+      },
+      "abilities": [
+        {
+          "name": "Hammer Strike",
+          "damage": 20,
+          "manaCost": 0
+        },
+        {
+          "name": "Shield Block",
+          "damageReduction": 10,
+          "manaCost": 2
+        }
+      ]
+    },
+    {
+      "name": "Lyra",
+      "race": "Human",
+      "class": "Rogue",
+      "attributes": {
+        "strength": 6,
+        "agility": 10,
+        "intelligence": 7,
+        "charisma": 8
+      },
+      "abilities": [
+        {
+          "name": "Backstab",
+          "damage": 25,
+          "manaCost": 4
+        },
+        {
+          "name": "Smoke Bomb",
+          "effect": "Evasion",
+          "duration": 2,
+          "manaCost": 3
+        }
+      ]
+    },
+    {
+      "name": "Zara",
+      "race": "Dragonborn",
+      "class": "Sorcerer",
+      "attributes": {
+        "strength": 7,
+        "agility": 5,
+        "intelligence": 9,
+        "charisma": 10
+      },
+      "abilities": [
+        {
+          "name": "Lightning Breath",
+          "damage": 30,
+          "manaCost": 8
+        },
+        {
+          "name": "Charm",
+          "effect": "Control enemy for 1 turn",
+          "manaCost": 6
+        }
+      ]
+    }
+  ]
+}
